@@ -259,7 +259,6 @@ img {
   justify-content: space-between;
   flex-direction: column;
   gap: 72px;
-  padding: 96px 0;
 }
 
 .features-icon-container {
@@ -803,7 +802,7 @@ img {
 
 .is-open {
   opacity: 1;
-  visibility: hidden;
+  visibility: visible;
   pointer-events: auto;
 }
 
